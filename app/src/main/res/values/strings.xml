@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="bienvenida">BIENVENIDOS </string>
+    <string name="btn1">Pronostico Actual</string>
+    <string name="btn2">Lista De Ciudades</string>
+</resources>
